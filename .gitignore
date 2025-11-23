@@ -6,3 +6,8 @@ temp/
 
 # Ignore a specific file called secret.txt
 secret.txt
+
+echo "git_assignment/" >> .gitignore
+git add .gitignore
+git commit -m "Ignore inner repository folder"
+git push origin master
