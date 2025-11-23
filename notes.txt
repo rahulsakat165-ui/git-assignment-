@@ -1,2 +1,3 @@
 My first Git experiment
-This is my second line
+This line is from master branch
+
