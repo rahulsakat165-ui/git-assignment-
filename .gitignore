@@ -1,0 +1,8 @@
+# Ignore all .log files
+*.log
+
+# Ignore a folder named temp/
+temp/
+
+# Ignore a specific file called secret.txt
+secret.txt
