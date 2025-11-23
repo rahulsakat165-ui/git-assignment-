@@ -11,3 +11,4 @@ echo "git_assignment/" >> .gitignore
 git add .gitignore
 git commit -m "Ignore inner repository folder"
 git push origin master
+git_assignment/
