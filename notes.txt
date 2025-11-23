@@ -1,3 +1,2 @@
-This line is from master branch
-This line is from master branch
-
+My first Git experiment
+This is my second line
